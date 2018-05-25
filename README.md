@@ -1,1 +1,1 @@
-# sinhala_pali_dictionary_ui_mockups
+# sinhala_pali_dictionary_ux_mockups
